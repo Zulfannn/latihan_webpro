@@ -1,0 +1,46 @@
+.gambar{
+	background-image: url(image/gempa.jpeg);
+	height: 300px;
+	width: 700px;
+	margin: auto;
+}
+.countainer{
+	width: 750px;
+	margin: auto;
+}
+p{
+	text-align: justify;
+	padding: 20px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+h2{
+	margin: 0px;
+	font-size: 18px;
+	padding: 20px;
+	padding-bottom: 1px;
+	padding-top: 10px;
+}
+*{
+	margin: 0px;
+}
+h1{
+	padding: 20px;
+	padding-bottom: 0px;
+}
+h3{
+	padding: 20px;
+	margin: auto;
+	padding-bottom: 5px;
+}
+a{
+	padding: 20px;
+}
+h4{
+	margin: 0px;
+	font-size: 15px;
+	padding: 20px;
+	padding-bottom: 1px;
+	padding-top: 8px;
+	color: blue;
+}
